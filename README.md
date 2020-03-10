@@ -10,3 +10,6 @@ This is a game about guessing a hidden number. This works like this:
 Features:
 - It tracks the number of rounds
 - It tracks your score
+
+To do:
+- Check if the number guessed is outside the 0-9 range.
